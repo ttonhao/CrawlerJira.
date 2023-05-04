@@ -1,0 +1,1 @@
+export PATH=$PATH:/Users/YOUR_USER/Downloads/
