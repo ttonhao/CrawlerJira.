@@ -1,0 +1,56 @@
+{
+    "URL": "",
+    "USER": "",
+    "PASSWORD": "",
+    "INTEGRATIONS": [
+        {
+            "ENABLED": true,
+            "DESCRIPTION": "US",
+            "PATH": "Historias.csv",
+            "JIRADATA": "JiraHistorias.csv",
+            "FILTERID": "73049",
+            "STATUS": [
+                "->SELECIONADO PARA GROOMING",
+                "->PRODUCT BACKLOG",
+                "->EM ANÁLISE",
+                "->ANÁLISE REALIZADA",
+                "->PRONTA PARA DESENVOLVIMENTO",
+                "->EM DESENVOLVIMENTO",
+                "->DESENVOLVIDA",
+                "->EM DEPLOY PARA TESTE",
+                "->DISPONIVEL PARA TESTE",
+                "->EM TESTE",
+                "->TESTADA",
+                "->EM DEPLOY PARA HOMOLOGAÇÃO",
+                "->DISPONIVEL PARA HOMOLOGAÇÃO",
+                "->EM HOMOLOGAÇÃO",
+                "->HOMOLOGADA",
+                "->EM DEPLOY PARA PRODUÇÃO",
+                "->EM PRODUÇÃO",
+                "->ATIVADA"
+            ]
+        },
+        {
+            "ENABLED": true,
+            "DESCRIPTION": "BUG",
+            "PATH": "Bug.csv",
+            "JIRADATA": "JiraBug.csv",
+            "FILTERID": "82992",
+            "STATUS": [
+                "->EM ANÁLISE",
+                "->EM CORREÇÃO",
+                "->CORRIGIDO",
+                "->RETESTE",
+                "->FECHADO"
+            ]
+        },
+        {
+            "ENABLED": true,
+            "DESCRIPTION": "EPIC",
+            "PATH": "Epic.csv",
+            "JIRADATA": "JiraEpic.csv",
+            "FILTERID": "82993",
+            "STATUS": []
+        }
+    ]
+}
