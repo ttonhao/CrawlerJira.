@@ -24,4 +24,4 @@ Para configurar o projeto, siga os passos abaixo:
 Se você quiser contribuir com o projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 ## Licença
-Este projeto é licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto é licenciado sob a licença MIT.
